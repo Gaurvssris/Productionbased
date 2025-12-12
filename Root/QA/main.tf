@@ -1,5 +1,5 @@
 module "QARG" {
-    source = "../../devprodqa/RG/RG"
+    source = "../../Infra/RG/RG"
     Rg = var.qaRg
   
 }

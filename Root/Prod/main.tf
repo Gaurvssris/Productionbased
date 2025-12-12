@@ -1,5 +1,5 @@
 module "PRRG" {
-source = "../../devprodqa/RG/RG"
+source = "../../Infra/RG/RG"
     Rg = var.prodnewRg
   
 }
