@@ -1,0 +1,2 @@
+variable "newRg" {}
+variable "newStrg" {}
